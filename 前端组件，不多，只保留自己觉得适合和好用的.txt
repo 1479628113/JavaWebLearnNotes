@@ -1,0 +1,128 @@
+独立的组件
+表单验证
+jQuery Validation Plugin http://jqueryvalidation.org/
+
+下拉列表
+chosen https://github.com/harvesthq/chosen
+
+select2 https://github.com/select2/select2
+
+灯箱效果
+fancyBox https://github.com/fancyapps/fancyBox
+
+lightbox2 https://github.com/lokesh/lightbox2
+
+加载动画
+spin.js https://github.com/fgnass/spin.js
+
+nprogress https://github.com/rstacruz/nprogress
+
+时间选择器
+clockpicker https://github.com/weareoutman/clockpicker
+
+步骤条
+jquery-steps https://github.com/rstaib/jquery-steps
+
+新手引导
+intro.js https://github.com/usablica/intro.js
+
+文件上传
+jQuery-File-Upload https://github.com/blueimp/jQuery-File-Upload
+
+webuploader http://fex.baidu.com/webuploader/ （百度出品）
+
+dropzone https://github.com/enyo/dropzone
+
+多媒体播放
+plyr https://github.com/selz/plyr
+
+动画效果
+animate.css https://github.com/daneden/animate.css
+
+字体图标
+Font-Awesome https://github.com/FortAwesome/Font-Awesome
+
+iconfont http://www.iconfont.cn/ （阿里巴巴出品）
+
+图片轮播
+slick https://github.com/kenwheeler/slick
+
+FlexSlider https://github.com/woothemes/FlexSlider
+
+Swiper https://github.com/nolimits4web/Swiper
+
+favicon 效果
+favico.js https://github.com/ejci/favico.js
+
+tinycon https://github.com/tommoor/tinycon
+
+消息提示
+toastr https://github.com/CodeSeven/toastr
+
+富文本编辑器
+summernote https://github.com/summernote/summernote
+
+simditor https://github.com/mycolorway/simditor（国人开发）
+
+表单增强
+icheck https://github.com/fronteed/icheck
+
+switchery https://github.com/abpetkov/switchery
+
+统计报表
+echarts http://echarts.baidu.com/（百度出品）
+
+其他
+jquery-pjax https://github.com/defunkt/jquery-pjax（pushState + ajax = pjax）
+
+grumble.js https://github.com/jamescryer/grumble.js（气泡效果，可以用作新功能提示）
+
+基于 Bootstrap 的组件
+表格
+bootstrap-table https://github.com/wenzhixin/bootstrap-table（国人开发）
+
+时间选择器
+bootstrap-datepicker https://github.com/eternicode/bootstrap-datepicker
+
+bootstrap-daterangepicker https://github.com/dangrossman/bootstrap-daterangepicker
+
+消息提示
+pnotify https://github.com/sciactive/pnotify
+
+模态弹窗
+bootbox https://github.com/makeusabrew/bootbox（基础，原生）
+
+bootstrap3-dialog https://github.com/nakupanda/bootstrap3-dialog（增强，自定义）
+
+下拉列表
+bootstrap-select https://github.com/silviomoreto/bootstrap-select
+
+bootstrap-multiselect https://github.com/davidstutz/bootstrap-multiselect
+
+Popover
+webui-popover https://github.com/sandywalker/webui-popover
+
+皮肤主题
+bootswatch https://github.com/thomaspark/bootswatch
+
+todc-bootstrap https://github.com/todc/todc-bootstrap（Google-styled theme for Bootstrap）
+
+bootstrap-material-design https://github.com/FezVrasta/bootstrap-material-design
+
+bootstrap-flat http://scottdorman.github.io/bootstrap-flat/
+
+bootstrap-theme-slim https://github.com/overtrue/bootstrap-theme-slim
+
+表单增强
+bootstrap-show-password https://github.com/wenzhixin/bootstrap-show-password（国人开发）
+
+bootstrap-switch https://github.com/nostalgiaz/bootstrap-switch
+
+前端框架
+Bootstrap http://v3.bootcss.com/
+
+Semantic UI http://www.semantic-ui.cn/
+
+primer https://github.com/primer/primer（Github CSS toolkit and guidelines）
+
+amazeui http://amazeui.org/（国人开发）
